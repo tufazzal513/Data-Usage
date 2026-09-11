@@ -1,0 +1,6 @@
+{
+  "name": "Data Usage",
+  "description": "Native Android app for tracking data usage and notifications. Export as ZIP to run in Android Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
